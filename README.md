@@ -1,6 +1,6 @@
 # Search engine for streaming platforms content
 
-<p align="left">
+<p align="center">
   <img src="https://boutique.orange.fr/informations/amazon-prime-video/img/visuel-entete.png" width="235" height="125">
   <img src="https://cineuropa.org/imgCache/2018/09/19/1537358562024_0570x0400_0x0x0x0_1573370192897.png" width="235" height="125">
   <img src="http://watchama.fr/wp-content/uploads/2020/01/disney-plus-logo.png" width="235" height="125">
@@ -23,3 +23,8 @@ Hulu : https://www.kaggle.com/datasets/shivamb/hulu-movies-and-tv-shows <br/>
 1. Convert release_year column to string <br/>
 2. Remove the following columns : show_id, date_added and rating (columns not needed)
 
+### The interface
+
+<p align="center">
+#<img src="https://boutique.orange.fr/informations/amazon-prime-video/img/visuel-entete.png" width="235" height="125">
+</p>

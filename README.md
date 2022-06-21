@@ -1,6 +1,6 @@
 # Search engine for streaming platforms content
 
-<p align="center">
+<p align="left">
   <img src="https://boutique.orange.fr/informations/amazon-prime-video/img/visuel-entete.png" width="235" height="125">
   <img src="https://cineuropa.org/imgCache/2018/09/19/1537358562024_0570x0400_0x0x0x0_1573370192897.png" width="235" height="125">
   <img src="http://watchama.fr/wp-content/uploads/2020/01/disney-plus-logo.png" width="235" height="125">

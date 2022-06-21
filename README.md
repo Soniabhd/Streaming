@@ -14,29 +14,29 @@ Disney + : https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows <b
 Hulu : https://www.kaggle.com/datasets/shivamb/hulu-movies-and-tv-shows <br/>
 
 
-
+&nbsp;
 ### Install the necessary packages if you need to 
 
 `pip install pyqt5`  <br/>
 `pip install pandas`
 
-
+&nbsp;
 ### Data cleaning 
 1. Convert release_year column to string <br/>
 2. Remove the following columns : show_id, date_added and rating (columns not needed)
 
-
+&nbsp;
 ### Distribution of the content by platform and type
 
 <p align="center">
-  <img src="https://github.com/Soniabhd/Streaming/blob/main/graph_stream.png" >
+  <img src="https://github.com/Soniabhd/Streaming/blob/main/graph_stream.png" width="700" height="300" >
 </p>
 
 
-
+&nbsp;
 ### The interface
 Feel free to apply all the filters you want but pay attention to the spelling of names and titles.
 
 <p align="center">
-  <img src="https://github.com/Soniabhd/Streaming/blob/main/interface.png" >
+  <img src="https://github.com/Soniabhd/Streaming/blob/main/interface.png" width="600" height="700" >
 </p>

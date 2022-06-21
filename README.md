@@ -13,18 +13,19 @@ Netflix : https://www.kaggle.com/datasets/shivamb/netflix-shows <br/>
 Disney + : https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows <br/>
 Hulu : https://www.kaggle.com/datasets/shivamb/hulu-movies-and-tv-shows <br/>
 
-<br/>
+
+
 ### Install the necessary packages if you need to 
 
 `pip install pyqt5`  <br/>
 `pip install pandas`
 
-<br/>
+
 ### Data cleaning 
 1. Convert release_year column to string <br/>
 2. Remove the following columns : show_id, date_added and rating (columns not needed)
 
-<br/>
+
 ### Distribution of the content by platform and type
 
 <p align="center">
@@ -32,7 +33,7 @@ Hulu : https://www.kaggle.com/datasets/shivamb/hulu-movies-and-tv-shows <br/>
 </p>
 
 
-<br/>
+
 ### The interface
 Feel free to apply all the filters you want but pay attention to the spelling of names and titles.
 

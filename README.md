@@ -1,3 +1,5 @@
+Project carried out as part of the M1 Econometrics-Statistics of the University of Paris 1 Panthéon Sorbonne
+
 # Search engine for streaming platforms content
 
 <p align="center">

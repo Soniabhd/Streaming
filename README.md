@@ -17,7 +17,7 @@ Hulu : https://www.kaggle.com/datasets/shivamb/hulu-movies-and-tv-shows <br/>
 
 
 &nbsp;
-### Install the necessary packages if you need to 
+### Install the necessary packages you need 
 
 `pip install pyqt5`  <br/>
 `pip install pandas`
